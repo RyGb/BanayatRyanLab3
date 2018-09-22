@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BanayatRyanLab3</string>
+    <string name="Title">Manila Central Post Office</string>
+    <string name="Text1">Location:</string>
+    <string name="Text2">Distance from UST:</string>
+    <string name="Location">Liwasang Bonifacio Street, Manila</string>
+    <string name="Distance">3 km from University of Santo Tomas</string>
+    <string name="Back">Back</string>
+    <string name="Next">Next</string>
+</resources>
